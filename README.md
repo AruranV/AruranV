@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AruranV
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... reach out to me on https://www.linkedin.com/in/aruran/
+- 👀 I’m interested in ML and Healthcare
+- 🌱 I’m currently learning various languages
+- 💞️ I’m looking to collaborate... Nothing immient 
+- 📫 How to reach me, on https://www.linkedin.com/in/aruran/
 
 <!---
 AruranV/AruranV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
