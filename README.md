@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AruranV
 - 👀 I’m interested in ML and Healthcare
 - 🌱 I’m currently learning various languages
-- 💞️ I’m looking to collaborate... Nothing immient 
 - 📫 How to reach me, on https://www.linkedin.com/in/aruran/
 
 <!---
